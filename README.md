@@ -30,7 +30,6 @@ Tired of range anxiety and inefficient trip planning? The **Smart EV Route Optim
 | :---: | :---: |
 | [![Dashboard](https://via.placeholder.com/400x250/0D1117/FFFFFF?text=EV+Optimizer+Dashboard)](https://your-demo-link.com) | [![Route Map](https://via.placeholder.com/400x250/0D1117/FFFFFF?text=Interactive+Route+Map)](https://your-demo-link.com) |
 
-> **💡 Live Demo:** [Check out the live application here!](https://your-app-link.herokuapp.com)
 
 ---
 
